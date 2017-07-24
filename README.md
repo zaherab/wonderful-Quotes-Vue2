@@ -1,4 +1,4 @@
-# wornderfoul-quotes-vue2
+# wornderful-quotes-vue2
 
 > A Vue.js project
 
