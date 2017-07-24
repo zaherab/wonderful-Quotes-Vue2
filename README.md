@@ -1,4 +1,4 @@
-# wornderful-quotes-vue2
+# wonderful-quotes-vue2
 
 > A Vue.js project
 
